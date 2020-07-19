@@ -1,3 +1,3 @@
 # task-manager-api
 
-This project contains Node.js APIs for Task-Manager (To-Do App) where a user can keep track of his incomplete and complete tasks
+This project has  Node.js APIs for Task-Manager (To-Do App) where a user can keep track of his/her tasks that needs to be completed.
